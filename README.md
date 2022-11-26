@@ -1,8 +1,8 @@
 # Experiment--09-Configuring-UART-in-LPC2148-for-serial-data-transmission-
 
-Name :	Ezhilmathi R
+Name :	LOGESHWARI P
 
-Roll no :212221230026
+Roll no :212221230055
 
 ## Configuring UART in LPC2148 for serial data transmission 
 
@@ -79,6 +79,6 @@ uart0_putc(a);
 ![output](ss2.png)
 
 ## Result :
-UART is programmed for transmitting serial data on virtual terminal
+UART is programmed for transmitting serial data on virtual terminal.
 
 
